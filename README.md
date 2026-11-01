@@ -1,2 +1,2 @@
 # Git-Branch-Experiment.
-Git branching and merge conflict resolution experiment
+Git branching and collaboration updated by another contributor
